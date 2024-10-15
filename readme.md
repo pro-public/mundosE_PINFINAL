@@ -55,14 +55,6 @@ Verifica los nodos del clúster:
 kubectl get nodes
 ```
 
-## Crear una clave privada para conectar con EKS
-
-Crea un archivo para la clave privada:
-
-```bash
-touch pin_key.pem
-```
-
 ## Desplegar NGINX en el clúster
 
 Aplica el manifiesto de despliegue de NGINX:
