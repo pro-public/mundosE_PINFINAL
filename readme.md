@@ -60,7 +60,7 @@ kubectl get nodes
 Crea un archivo para la clave privada:
 
 ```bash
-touch ubuntu_key.pem
+touch pin_key.pem
 ```
 
 ## Desplegar NGINX en el clúster
